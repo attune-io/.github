@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/attune-io/attune/main/docs/logo.jpg" alt="Attune" width="120">
+  <img src="https://raw.githubusercontent.com/attune-io/attune/main/docs/logo.png" alt="Attune" width="120">
 </p>
 
 <h3 align="center">Safe, in-place Kubernetes pod resource right-sizing</h3>
